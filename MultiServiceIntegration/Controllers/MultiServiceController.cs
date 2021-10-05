@@ -81,7 +81,7 @@ namespace MultiServiceIntegration.Controllers
         /// <returns></returns>
         [HttpPost]
         [Route("GetAggegrateResultsUsingTPL")]
-        public async Task<ActionResult<object>> GetAggegrateResultsUsingTPL(string ipAddress, List<string> services = null)
+        public ActionResult<object> GetAggegrateResultsUsingTPL(string ipAddress, List<string> services = null)
         {
             try
             {
@@ -107,7 +107,7 @@ namespace MultiServiceIntegration.Controllers
                 services = services.Where(s => !string.IsNullOrEmpty(s) && defaultServicesLists.Contains(s.ToUpper())).ToList();
 
                 _logger.LogInformation("Call services parallely using Task and wait till all the tasks completed");
-                IpInfos = (await Task.WhenAll(services.Select(s => _multiSvcIntg.CallAPIUsingTPI(s.ToUpper(), ipAddress, _httpClient)))).ToList();
+                IpInfos = (Task.WhenAll(services.Select(s => _multiSvcIntg.CallAPIUsingTPI(s.ToUpper(), ipAddress, _httpClient))).Result).ToList();
 
                 ipConfigDetails.IpInfos = IpInfos;
                 return Ok(ipConfigDetails);

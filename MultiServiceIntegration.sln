@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiServiceIntegration", "MultiServiceIntegration\MultiServiceIntegration.csproj", "{1843FC6B-EA48-4549-A1DA-C3CFE2EA1141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiServiceIntegration", "MultiServiceIntegration\MultiServiceIntegration.csproj", "{1843FC6B-EA48-4549-A1DA-C3CFE2EA1141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoIP.API.Service", "GeoIP.API.Service\GeoIP.API.Service.csproj", "{88B791E6-629A-4FBF-B83C-EC84DCD380CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoIP.API.Service", "GeoIP.API.Service\GeoIP.API.Service.csproj", "{88B791E6-629A-4FBF-B83C-EC84DCD380CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDAP.API.Service", "RDAP.API.Service\RDAP.API.Service.csproj", "{FAD50CF8-DC1D-4FFC-A53E-3AAB33204F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RDAP.API.Service", "RDAP.API.Service\RDAP.API.Service.csproj", "{FAD50CF8-DC1D-4FFC-A53E-3AAB33204F6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

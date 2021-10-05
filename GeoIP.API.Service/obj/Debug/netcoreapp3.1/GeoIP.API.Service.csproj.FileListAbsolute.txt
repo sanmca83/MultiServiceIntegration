@@ -47,6 +47,12 @@ C:\Programs\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Sw
 C:\Programs\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.csprojAssemblyReference.cache
 C:\Programs\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.MvcApplicationPartsAssemblyInfo.cs
 C:\Programs\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.csproj.CopyComplete
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.AssemblyInfoInputs.cache
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.AssemblyInfo.cs
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.csproj.CoreCompileInputs.cache
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.MvcApplicationPartsAssemblyInfo.cs
+F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.MvcApplicationPartsAssemblyInfo.cache
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Config\appsettings.Development.json
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Config\appsettings.json
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\GeoIP.API.Service.exe
@@ -82,13 +88,6 @@ F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Serilog.Sin
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\MultiServiceIntegration\GeoIP.API.Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.csproj.AssemblyReference.cache
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.GeneratedMSBuildEditorConfig.editorconfig
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.AssemblyInfoInputs.cache
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.AssemblyInfo.cs
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.csproj.CoreCompileInputs.cache
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.MvcApplicationPartsAssemblyInfo.cs
-F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\GeoIP.API.Service.MvcApplicationPartsAssemblyInfo.cache
 F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.API.Service.StaticWebAssets.Manifest.cache
 F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\staticwebassets\GeoIP.API.Service.StaticWebAssets.xml
 F:\MultiServiceIntegration\GeoIP.API.Service\obj\Debug\netcoreapp3.1\scopedcss\bundle\GeoIP.API.Service.styles.css
